@@ -1,4 +1,4 @@
-# Seattle_pet_licenses_dimensional_modelling
+# Seattle_pet_licenses_data_staging
 
 - Utilized the Seattle Pet License TSV file. 
 - Created the stage table in SQL server database with appropriate datatypes and column widths. 
